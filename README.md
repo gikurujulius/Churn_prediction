@@ -8,4 +8,4 @@ The data set can be found on Kaggle: https://www.kaggle.com/blastchar/telco-cust
 ## Model Development and Steps taken
 The churn_prediction1 file contains findings, insights and the predictive regression model with an 84.3 % accuracy utilizing Kfold cross validation and DictVectorizer for feature engineering.
 
-## Module deployment
+## Model deployment
